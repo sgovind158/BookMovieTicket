@@ -1,0 +1,15 @@
+#cart{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    border: 1px solid blue;
+    gap: 20px
+    ;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
